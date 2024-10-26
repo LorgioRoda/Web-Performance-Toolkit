@@ -41,6 +41,17 @@ This repository provides a curated list of resources and articles to help develo
 - [Webpack Bundle Analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer)  
   A tool to visualize the size of Webpack output files with an interactive zoomable treemap.
 
+## 🎓 Courses
+
+- [Learn Web Performance Fundamentals](https://web.dev/learn/performance)  
+  A comprehensive course on web performance fundamentals, covering key concepts and best practices.
+
+- [Curso de Web Performance - Codely](https://codely.com/cursos/web-performance_u0oh)  
+  A Spanish course that teaches how to optimize web performance using various techniques and tools.
+
+- [Web Performance Workshop](https://frontendmasters.com/courses/web-perf-v2/)  
+  An advanced workshop on web performance optimization strategies from Frontend Masters.
+
 ---
 
 Feel free to explore these resources and apply the best practices in your projects to achieve high-performance websites!
@@ -48,4 +59,3 @@ Feel free to explore these resources and apply the best practices in your projec
 ## 🤝 Contributions
 
 Have a great resource to share? Feel free to submit a pull request or open an issue with your suggestions!
-
