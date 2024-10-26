@@ -41,6 +41,9 @@ This repository provides a curated list of resources and articles to help develo
 - [Webpack Bundle Analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer)  
   A tool to visualize the size of Webpack output files with an interactive zoomable treemap.
 
+- [BundlePhobia](https://bundlephobia.com/)  
+  Analyze the size, cost, and impact of adding an npm package to your bundle.
+
 ## 🎓 Courses
 
 - [Learn Web Performance Fundamentals](https://web.dev/learn/performance)  
